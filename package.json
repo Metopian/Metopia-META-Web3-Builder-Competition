@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "config": "^3.3.9",
+    "hardhat": "^2.18.2",
+    "ioredis": "^5.3.2",
+    "kcors": "^2.2.2",
+    "koa": "^2.14.2",
+    "koa-bodyparser": "^4.4.1",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1",
+    "koa-onerror": "^4.2.0",
+    "koa-router": "^11.0.2",
+    "log4js": "^6.9.1",
+    "moment": "^2.29.4",
+    "sequelize": "^6.33.0"
+  }
+}
